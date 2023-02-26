@@ -1,6 +1,6 @@
 # Logic calculator
 
-- During the first semester of ADS, one of the tasks of the Computational Mathematics discipline would be to generate 6 random numbers from 1 to 60, simulating a draw.
+- During the first semester of Analysis and systems development, one of the tasks of the Computational Mathematics discipline would be to generate 6 random numbers from 1 to 60, simulating a draw.
 
 Website link: https://paulacynthia.github.io/trabalhodemath
 
